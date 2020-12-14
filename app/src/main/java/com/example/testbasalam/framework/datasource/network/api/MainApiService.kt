@@ -8,7 +8,7 @@ import javax.inject.Singleton
 @Singleton
 interface MainApiService {
 
-    @GET("score")
+    @GET("user")
     suspend fun getScores(
     ): ProductsResponse
 
