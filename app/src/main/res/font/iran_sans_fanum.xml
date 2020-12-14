@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:app="http://schemas.android.com/apk/res-auto">
+    <font
+        app:font="@font/iran_sans_fanum_ultra_light"
+        app:fontStyle="normal"
+        app:fontWeight="100" />
+    <font
+        app:font="@font/iran_sans_fanum_light"
+        app:fontStyle="normal"
+        app:fontWeight="200" />
+    <font
+        app:font="@font/iran_sans_fanum_normal"
+        app:fontStyle="normal"
+        app:fontWeight="400" />
+    <font
+        app:font="@font/iran_sans_fanum_medium"
+        app:fontStyle="normal"
+        app:fontWeight="550" />
+    <font
+        app:font="@font/iran_sans_fanum_bold"
+        app:fontStyle="normal"
+        app:fontWeight="700" />
+    <font
+        app:font="@font/iran_sans_fanum_black"
+        app:fontStyle="normal"
+        app:fontWeight="900" />
+</font-family>
